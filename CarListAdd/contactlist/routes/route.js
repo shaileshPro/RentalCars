@@ -63,9 +63,7 @@ router.get('/tasks', function (req, res, next) {
         res.send(obj)
 
       })
-
     }
-
 
   });
 
